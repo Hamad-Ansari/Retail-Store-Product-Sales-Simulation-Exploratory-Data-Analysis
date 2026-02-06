@@ -125,13 +125,19 @@ The EDA process followed a structured approach, leveraging Python's powerful dat
 ## 🖼️ Highlighted Visualizations
 
 The notebook features a rich array of visualizations. Here are some key types:
+<img width="1982" height="2224" alt="0cd97bf0-be0f-43b0-a45a-fb12a0e3cdc3" src="https://github.com/user-attachments/assets/d26e1184-9190-471d-b6bf-c43b5a44a982" />
 
 -   **Correlation Heatmaps:** Visualizing Pearson, Spearman, and Kendall correlations to understand linear and monotonic relationships, plus a Clustermap for hierarchical grouping of features.
 -   **Box & Violin Plots:** Providing detailed views of feature distributions and aiding in outlier detection.
+-   <img width="2384" height="1022" alt="bf2c31cb-8ff3-401a-a21f-0f19511bc154" src="https://github.com/user-attachments/assets/483da2d6-50c1-4441-9dce-8144a86eaff2" />
+
 -   **Joint & Hexbin Plots:** Effectively displaying dense bivariate relationships, such as `price` vs. `footfall` or `customer_sentiment` vs. `return_rate`.
+-   <img width="2183" height="2426" alt="898bcf2b-76d5-41a3-aa2f-62395c2d4c8e" src="https://github.com/user-attachments/assets/b68c5a49-9bed-49ea-82eb-067ec996ef5e" />
+
 -   **Radar Chart:** A compelling visual comparison of feature profiles for products with high vs. low footfall, revealing distinct characteristic differences.
 -   **Binned Analysis:** Illustrating how average metrics (e.g., `footfall`, `return_rate`) change across deciles of other features (e.g., `price`, `discount`).
 -   **Engineered Feature Distributions:** Histograms and KDEs for newly created features, showing their unique characteristics.
+<img width="1584" height="684" alt="be2f6a34-ea00-47d4-94ee-88e725f069ef" src="https://github.com/user-attachments/assets/52593e32-59c1-4c85-948d-0aaf0b7f72e2" />
 
 ---
 
@@ -146,6 +152,7 @@ The EDA successfully addressed several critical business questions:
 -   **What are the most important features for predicting footfall?**
 -   **Are there any concerning multicollinearity issues among features?**
 -   **Does weather affect store traffic and customer behavior?**
+<img width="2184" height="1226" alt="c8bf2496-cccb-4d54-92b0-eaf73341a957" src="https://github.com/user-attachments/assets/85b76f62-85b0-4790-b882-d00456d9a1d9" />
 
 ---
 
@@ -198,14 +205,28 @@ This EDA serves as a strong foundation. Potential next steps include:
 
 ---
 
-## ✍️ Author & Contact
+---
 
--   **[Your Name]**
--   **LinkedIn:** [Your LinkedIn Profile]
--   **Kaggle:** [Your Kaggle Profile]
--   **GitHub:** [Your GitHub Profile]
--   **Twitter/X:** [@YourHandle] (Optional)
+# 🙏 Thank You!
 
+If you found this notebook helpful, please consider:
+- ⬆️ **Upvoting** this notebook
+- 💬 **Leaving a comment** with your thoughts or questions
+- 🔔 **Following** me for more quality data science content
+
+## 🌐 Connect With Me:
+## 👤 About the Author
+
+- **Author:** [Hammad_zahid]
+- **Kaggle:** [kaggle.com/hammadansari7](https://www.kaggle.com/hammadansari7)
+- **LinkedIn:** [linkedin.com/in/Hammad Zahid](https://www.linkedin.com/in/hammad-zahid-xyz/)
+- **GitHub:** [github.com/Hamad-Ansari](https://github.com/Hamad-Ansari)
+- **Twitter/X:** [@zahid_hamm57652](https://x.com/zahid_hamm57652)
+
+
+---
+
+*Happy analyzing! 📊🚀*
 Feel free to connect, provide feedback, or ask any questions!
 
 ---
